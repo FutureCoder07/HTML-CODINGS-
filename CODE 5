@@ -1,0 +1,26 @@
+<h1>Current Technology</h1> <ol>
+<li>
+<a
+href="https://www.tutorialspo int.com/java/">
+<img
+src="java.gif" height="50" width="50">
+</a>
+</li>
+<li>
+<a
+href="https://www.tutorialspo int.com/python/index.htm">
+<img
+src="python.gif" height="50" width="50">
+</a>
+</li>
+<li>C++ <a
+href="https://www.tutorialspo int.com/cplusplus/index.htm">
+Click here</a></li>
+<li><a
+href="https://www.tutorialspo int.com/html/index.htm"
+<img
+src="html.gif" alt="HTML Tutorial"
+height="50" width="50">
+</a>
+</li>
+</ol>
